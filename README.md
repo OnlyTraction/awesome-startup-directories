@@ -18,6 +18,7 @@ If you find this useful, a ⭐ helps others discover it.
 - **[PeerPush](https://peerpush.net)** _(DR 72)_ — Product discovery platform for AI and people
 - **[TinyLaunch](https://tinylaunch.com)** _(DR 72)_ — Tiny startup launch directory
 - **[StartupStash](https://startupstash.com)** _(DR 65)_ — Startup directory
+- **[SaaSCity](https://saascity.io)** _(DR 64)_ — Gamified SaaS directory where every listing becomes a building on a live isometric city map
 
 ## 📈 Mid-Authority (DR 30–59)
 
