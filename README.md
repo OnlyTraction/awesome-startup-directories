@@ -62,6 +62,7 @@ If you find this useful, a ⭐ helps others discover it.
 - **[StartupEurope](https://startupeurope.net)** — European startup directory
 - **[Built In Chicago](https://www.builtinchicago.org)** — Chicago tech company directory
 - **[aat.ee](https://aat.ee)** — Startup discovery platform
+- **[Altimateguide](https://altimateguide.com/request-inclusion)** — Manually reviewed tools directory; free listing via a SayAbout.Us Wall of Love or an on-site badge, or $14.99 one-time.
 
 ## 💰 Deal & Promo Platforms
 
